@@ -5,4 +5,4 @@ Uploaded are the notebooks used for the final analysis of NGS data for the DMS_D
 
 I add a modified version in the branch
 
-{% include Normalized_activity.html %}
+{% Normalized_activity.html %}
